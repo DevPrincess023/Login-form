@@ -1,5 +1,5 @@
-#login-page
-This project is a simple login page built using HTMLand CSS.
+#login-form
+This project is a simple login form built using HTMLand CSS.
 It demonstrates how to structure a form, style input fields, buttons, and layout a clean, user friendly interface.
 
 
